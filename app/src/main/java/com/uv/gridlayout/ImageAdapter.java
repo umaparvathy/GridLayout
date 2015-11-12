@@ -54,4 +54,10 @@ public class ImageAdapter extends BaseAdapter {
             R.drawable.icecream, R.drawable.jeyllybean,
             R.drawable.kitkat, R.drawable.lollipop,
     };
+
+    public String[] description = {
+            "GingerBread", "HoneyComb",
+            "Icecream", "JellyBean",
+            "Kitkat", "Lollipop",
+    };
 }

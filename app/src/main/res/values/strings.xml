@@ -1,4 +1,13 @@
 <resources>
     <string name="app_name">GridLayout</string>
     <string name="action_settings">Settings</string>
+
+    <string-array name="image_ids">
+        <item>@drawable/gingerbread</item>
+        <item>@drawable/honeycomb</item>
+        <item>@drawable/icecream</item>
+        <item>@drawable/jeyllybean</item>
+        <item>@drawable/kitkat</item>
+        <item>@drawable/lollipop</item>
+    </string-array>
 </resources>
